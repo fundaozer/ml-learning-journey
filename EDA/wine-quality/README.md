@@ -4,8 +4,10 @@
 Perform exploratory data analysis (EDA) to understand the characteristics of the wine quality dataset.
 
 ## Dataset
-Wine Quality dataset (WineQT.csv).  
-The dataset is in the public domain and included in this repository for educational purposes.
+Kaggle-Wine Quality dataset (WineQT.csv).  
+The dataset is not included in this repository.
+You can download it from:
+https://www.kaggle.com/datasets/yasserh/wine-quality-dataset
 
 ## Analysis Includes
 - Dataset overview and structure
