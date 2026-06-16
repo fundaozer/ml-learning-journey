@@ -5,6 +5,7 @@ It includes hands-on assignments, exploratory data analysis (EDA) projects, and 
 
 ## Contents
 - Exploratory Data Analysis (EDA) projects
+- Future Engineering
 - Dataset understanding and visualization
 - Python-based data analysis practice
 
@@ -14,6 +15,7 @@ It includes hands-on assignments, exploratory data analysis (EDA) projects, and 
 - Pandas
 - Matplotlib
 - Seaborn
+- Scikit-learn
 
 ## Purpose
 This repository is created for educational purposes and to track my progress while learning AI and machine learning.
